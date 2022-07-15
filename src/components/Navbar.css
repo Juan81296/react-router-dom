@@ -1,0 +1,13 @@
+.active{
+    color:red;
+    font-weight: bold;
+}
+.blue{
+    color:blue;
+}
+.green{
+    color:green;
+}
+.yellow{
+    color:rgb(117, 117, 7);
+}
